@@ -15,3 +15,5 @@
 #Function 3
 
 #Function 4
+
+Rscript myrscript.R
